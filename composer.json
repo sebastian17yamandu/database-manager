@@ -1,9 +1,8 @@
 {
-  
+  "minimum-stability": "dev",
   "autoload": {
     "psr-4": {
       "Sebastian17Yamandu\\VarEnv\\": "src/"
     }
-  },
-  "minimum-stability": "dev",
+  }
 }
